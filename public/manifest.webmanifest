@@ -1,0 +1,16 @@
+{
+  "name": "Chat Notes",
+  "short_name": "ChatNotes",
+  "description": "A mobile-first chat-style personal logging PWA.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#5b6ee1",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
